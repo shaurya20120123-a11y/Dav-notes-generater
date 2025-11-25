@@ -1,0 +1,1 @@
+To build an APK, create a React Native project (react-native init) and copy the App.js and src/ and assets/ folders into the project root. Then run Android build in Android Studio.
